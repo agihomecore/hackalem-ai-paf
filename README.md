@@ -80,3 +80,14 @@ Built by **AIKYN-LAB** in Kazakhstan.
 
 Public project: **GALYMZHAN {AGI}**  
 Website: https://galymzhan.com
+
+
+## Visual overview
+
+### Live GALYMZHAN interface
+
+![GALYMZHAN live interface](docs/galymzhan-home.png)
+
+### PAF architecture
+
+![PAF architecture](docs/architecture.svg)
